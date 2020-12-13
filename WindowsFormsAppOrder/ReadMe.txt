@@ -1,0 +1,2 @@
+WindowsForms 點餐系統
+資料庫使用MS-SQL
